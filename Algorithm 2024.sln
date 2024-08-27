@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35201.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Euclid", "001_Euclid\001_Euclid.csproj", "{3CE37EC3-DD38-460A-A9DD-C75D4D906264}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_factorial", "002_factorial\002_factorial.csproj", "{4B66ECE6-B157-4B6F-B414-AC6A9824E797}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3CE37EC3-DD38-460A-A9DD-C75D4D906264}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CE37EC3-DD38-460A-A9DD-C75D4D906264}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CE37EC3-DD38-460A-A9DD-C75D4D906264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B66ECE6-B157-4B6F-B414-AC6A9824E797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B66ECE6-B157-4B6F-B414-AC6A9824E797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B66ECE6-B157-4B6F-B414-AC6A9824E797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B66ECE6-B157-4B6F-B414-AC6A9824E797}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
