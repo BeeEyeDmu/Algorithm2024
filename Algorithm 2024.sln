@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Euclid", "001_Euclid\00
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_factorial", "002_factorial\002_factorial.csproj", "{4B66ECE6-B157-4B6F-B414-AC6A9824E797}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Fibonacci", "003_Fibonacci\003_Fibonacci.csproj", "{9C651C84-7854-4737-90DA-4EEFBADE8E80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_hanoi", "004_hanoi\004_hanoi.csproj", "{A340F02C-1699-46F1-A54F-558F7B4D27BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{4B66ECE6-B157-4B6F-B414-AC6A9824E797}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B66ECE6-B157-4B6F-B414-AC6A9824E797}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B66ECE6-B157-4B6F-B414-AC6A9824E797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C651C84-7854-4737-90DA-4EEFBADE8E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C651C84-7854-4737-90DA-4EEFBADE8E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C651C84-7854-4737-90DA-4EEFBADE8E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C651C84-7854-4737-90DA-4EEFBADE8E80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A340F02C-1699-46F1-A54F-558F7B4D27BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A340F02C-1699-46F1-A54F-558F7B4D27BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A340F02C-1699-46F1-A54F-558F7B4D27BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A340F02C-1699-46F1-A54F-558F7B4D27BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
