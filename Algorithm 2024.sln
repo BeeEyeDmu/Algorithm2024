@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_FloydWarshall", "012_Fl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013_ChainedMatrixMultiplication", "013_ChainedMatrixMultiplication\013_ChainedMatrixMultiplication.csproj", "{E20D1A62-6292-4EAD-BE05-A1D8D8A82F8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014_Sorting", "014_Sorting\014_Sorting.csproj", "{6EE31FB0-6A79-4FFE-A471-94EF0F09C1DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{E20D1A62-6292-4EAD-BE05-A1D8D8A82F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E20D1A62-6292-4EAD-BE05-A1D8D8A82F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E20D1A62-6292-4EAD-BE05-A1D8D8A82F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE31FB0-6A79-4FFE-A471-94EF0F09C1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE31FB0-6A79-4FFE-A471-94EF0F09C1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE31FB0-6A79-4FFE-A471-94EF0F09C1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE31FB0-6A79-4FFE-A471-94EF0F09C1DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
